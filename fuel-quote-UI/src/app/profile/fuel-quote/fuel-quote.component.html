@@ -1,0 +1,49 @@
+<div class="card">
+    <div class="card-header">
+        <h2>Add Quote</h2>
+    </div>
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+        <div class="card-body">
+            <div class="form-row">
+                <div class="form-group col-4">
+                    <label>Gallons Requested</label>
+                    <input type="text" formControlName="GallonsRequested" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.GallonsRequested.errors }" (change)="GallonChanged()"/>
+                </div>
+                <div class="form-group col-4">
+                    <label>Delivery Date</label>
+                    <input type="date" formControlName="DeliveryDate" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.DeliveryDate.errors }" />
+                </div>
+                <div class="form-group col-2">
+                    <label>Suggested Price</label>
+                    <input type="number" formControlName="SuggestedPrice" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.SuggestedPrice.errors }" readonly/>
+                </div>
+                <div class="form-group col-2">
+                    <label>Total Amount Due</label>
+                    <input type="number" formControlName="TotalAmountDue" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.TotalAmountDue.errors }" readonly/>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col">
+                    <label>Delivery Address</label>
+                    <textarea type="text" formControlName="DiliveryAddress" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.DiliveryAddress.errors }"></textarea>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <button type="submit" [disabled]="loading" class="btn btn-primary mr-2" [disabled]="!form.valid || !this.quoteGenerated">
+                <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                Save
+            </button>
+            <button type="button" [disabled]="loading" class="btn btn-primary mr-2" [disabled]="!form.valid" (click)="GetQuote()">
+                <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                Get Quote
+            </button>
+            <a routerLink="../" href="" class="btn btn-danger">Cancel</a>
+        </div>
+    </form>
+</div>

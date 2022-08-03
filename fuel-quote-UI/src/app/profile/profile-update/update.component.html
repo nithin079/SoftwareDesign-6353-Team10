@@ -1,0 +1,64 @@
+﻿<div class="card">
+    <div class="card-header">
+        <h2>Update Profile</h2>
+    </div>
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+        <div class="card-body">
+            <div class="form-row">
+                <div class="form-group col-6">
+                    <label>User Name</label>
+                    <input type="text" formControlName="userName" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.userName.errors }"/>
+                </div>
+                <div class="form-group col-6">
+                    <label>Full Name</label>
+                    <input type="text" formControlName="fullname" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.fullname.errors }" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-6">
+                    <label>Address 1</label>
+                    <textarea type="text" formControlName="address1" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.address1.errors }"></textarea>
+                </div>
+                <div class="form-group col-6">
+                    <label>Address 2</label>
+                    <textarea type="text" formControlName="address2" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.address2.errors }"></textarea>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-4">
+                    <label>State</label><br>
+                    <p-dropdown [options]="States" formControlName="state" optionLabel="name" optionValue="code"> </p-dropdown>
+                    <!-- <select formControlName="state" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.state.errors }">
+                        <option [value]="item.code" *ngFor="let item of States">{{item.name}}</option>
+                    </select> -->
+                </div>
+                <div class="form-group col-4">
+                    <label>City</label>
+                    <input type="text" formControlName="city" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.city.errors }" />
+                </div>
+                <div class="form-group col-4">
+                    <label>Zip Code</label>
+                    <input type="text" formControlName="zipcode" class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && f.zipcode.errors }" />
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <button type="submit" [disabled]="loading" class="btn btn-primary mr-2">
+                <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                Update
+            </button>
+            <!-- <button type="button" (click)="onDelete()" [disabled]="deleting" class="btn btn-danger">
+                <span *ngIf="deleting" class="spinner-border spinner-border-sm mr-1"></span>
+                Delete
+            </button> -->
+            <a routerLink="../" href="" class="btn btn-link">Cancel</a>
+            </div>
+    </form>
+</div>

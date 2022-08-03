@@ -1,0 +1,162 @@
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal Project\demo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\refint\Repository.dll
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\Personal Project\demo\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.exe
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Dapper.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.exe
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Repository.pdb
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Dapper.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.pdb
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\FuelQuote\Fuel-Quote-API\Repository\obj\Debug\net5.0\ref\Repository.dll

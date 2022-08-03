@@ -1,0 +1,179 @@
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\appsettings.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\FuelQuoteAPI.exe
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\FuelQuoteAPI.deps.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\ref\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\FuelQuoteAPI.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfo.cs
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\scopedcss\bundle\FuelQuoteAPI.styles.css
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\staticwebassets\FuelQuoteAPI.StaticWebAssets.Manifest.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.RazorTargetAssemblyInfo.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CopyComplete
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\ref\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\CustomerAPI\obj\Debug\net5.0\FuelQuoteAPI.genruntimeconfig.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\appsettings.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.exe
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.deps.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\ref\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfo.cs
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\scopedcss\bundle\FuelQuoteAPI.styles.css
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\staticwebassets\FuelQuoteAPI.StaticWebAssets.Manifest.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.RazorTargetAssemblyInfo.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CopyComplete
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\ref\FuelQuoteAPI.dll
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.pdb
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.genruntimeconfig.cache
+D:\Others\Demos\Nithin\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.deps.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.exe
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.exe
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.deps.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.dev.json
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.pdb
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.pdb
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.AssemblyReference.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfoInputs.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfo.cs
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CoreCompileInputs.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\scopedcss\bundle\FuelQuoteAPI.styles.css
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\staticwebassets\FuelQuoteAPI.StaticWebAssets.Manifest.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CopyComplete
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\refint\FuelQuoteAPI.dll
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.pdb
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.genruntimeconfig.cache
+C:\Users\nnerella\Downloads\FuelQuote (1)\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\ref\FuelQuoteAPI.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\appsettings.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.deps.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.exe
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.exe
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.deps.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.runtimeconfig.dev.json
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\FuelQuoteAPI.pdb
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Dapper.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\bin\Debug\net5.0\Repository.pdb
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.AssemblyReference.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfoInputs.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.AssemblyInfo.cs
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CoreCompileInputs.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\scopedcss\bundle\FuelQuoteAPI.styles.css
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\staticwebassets\FuelQuoteAPI.StaticWebAssets.Manifest.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.RazorTargetAssemblyInfo.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.csproj.CopyComplete
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\refint\FuelQuoteAPI.dll
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.pdb
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\FuelQuoteAPI.genruntimeconfig.cache
+C:\FuelQuote\Fuel-Quote-API\FuelQuoteAPI\obj\Debug\net5.0\ref\FuelQuoteAPI.dll

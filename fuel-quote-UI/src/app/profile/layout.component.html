@@ -1,0 +1,19 @@
+﻿<nav class="navbar navbar-expand navbar-dark bg-dark justify-content-between">
+        <div class="navbar-nav">
+            <a routerLink="/admin" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" class="nav-item nav-link">Home</a>
+            <a routerLink="fuel-quote" routerLinkActive="active" class="nav-item nav-link">Fuel Quote</a>
+            <a routerLink="fuel-history" routerLinkActive="active" class="nav-item nav-link">Fuel History</a>
+            <a routerLink="myprofile" routerLinkActive="active" class="nav-item nav-link">My Profile</a>
+        </div>
+        <div class="navbar-nav">
+            <span class="nav-item nav-link">{{account.UserName}}  &nbsp;| </span>
+            <a (click)="logout()" class="nav-item nav-link">Logout</a>
+          </div>
+    </nav>
+
+   
+<div class="p-4">
+    <div class="container">
+        <router-outlet></router-outlet>
+    </div>
+</div>
