@@ -31,6 +31,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 
 # Fuel-Quote-API:
+Update the connection string to connect to the Sql Server where DataBase is restored.
 
 ## Running .NET APP
 
